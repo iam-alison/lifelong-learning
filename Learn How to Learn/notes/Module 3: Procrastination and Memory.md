@@ -1,5 +1,13 @@
 # Module 3: Procrastination and Memory
 
+### What you will learn in this module
+- The connection between **procrastination** and **memory** in the learning process
+- How to build **solid chunks** in long-term memory for better recall.
+- Why **managing procrastination** is crucial for effective learning.
+- Best techniques to **access and strengthen long-term memory**.
+
+---
+
 ### **1. Procrastination**
 
 - **Definition:** Procrastination is the act of delaying or postponing tasks, often opting for short-term pleasure instead of long-term gains.
